@@ -1,0 +1,14 @@
+layout_spectrum: 0.09268027660436928
+typography_spectrum: 0.8369729726109654
+color:
+  brandStrength: 0.4113913590554148
+  lightness: 0.3567227062303573
+  saturation: 0.7742487946525216
+  rhythmicContrast: 0.7574019897729158
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: numbersome
