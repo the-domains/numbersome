@@ -6,9 +6,9 @@ color:
   saturation: 0.7742487946525216
   rhythmicContrast: 0.7574019897729158
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#FFFEFF'
+    - '#E5AF41'
+    - '#222220'
+    - '#535351'
+    - '#A68135'
 name: numbersome
